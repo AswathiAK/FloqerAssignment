@@ -1,8 +1,10 @@
-# React + Vite
+# Floqer' Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created a Table and Line Graph of Year wise Jobs and Average Salary of Employees.
 
-Currently, two official plugins are available:
+# Technologies Used
+- React
+- Ant Design
+- ReChart
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit at - https://floqertable.netlify.app/
